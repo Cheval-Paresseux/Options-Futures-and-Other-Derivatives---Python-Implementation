@@ -11,6 +11,8 @@ The content is organized by chapters related to fixed income instruments from Hu
 - Worked-out examples to demonstrate the practical applications.
 - Exercises and problems solved using Python.
 
+You can also find a .py file that gathers some useful functions. 
+
 ### Chapters Covered
 
 - **Chapter 2: Mechanics of Futures Markets**  
