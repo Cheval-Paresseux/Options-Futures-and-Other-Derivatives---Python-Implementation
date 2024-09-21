@@ -31,12 +31,3 @@ You can also find a .py file that gathers some useful functions.
 
 - Explore the notebooks in this branch to get a deeper understanding of fixed income instruments and derivatives.
 - Each notebook is self-contained, providing a step-by-step guide through the relevant concepts and their Python implementations.
-
-## Prerequisites
-
-- Basic understanding of Python and Jupyter notebooks.
-- Familiarity with financial mathematics, particularly fixed income securities.
-
----
-
-This branch serves as a comprehensive guide for mastering fixed income instruments and their derivatives using Python.
